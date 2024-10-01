@@ -1,0 +1,113 @@
+body{
+    text-align: center;
+    background-image:url("S__29220875.jpg");
+    background-position: center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    height: 100vh;
+    background-color:rgba(255,255,255,0.5);
+    background-blend-mode: lighten;
+    text-align: center;
+}
+.name{
+    font-family:serif;
+    
+}
+.name h1{
+    font-size: 60px;
+    padding:60px 0 0 0;
+    margin: 0;
+}
+.name h2{
+    font-size: 30px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.profile-box{
+    background-color: white;
+    border-radius: 10px;
+    display: inline-block;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+}
+.profile{
+    font-size: 50px;
+    font-family: serif;
+}
+.profile-item p{
+  font-size: 20px;
+  font-family: serif;
+}
+.hobby{
+    background-color:white;
+    margin-left: 70px;
+    margin-right: 100px;
+    display: inline-block;
+    text-align: right;
+}
+.hobby h1{
+    font-size:70px;
+    font-family: Agentur;
+    text-align: center;
+}
+.hobby0{
+    display: flex;
+    margin: auto;
+}
+.hobby1-h1{
+    font-size:60px;
+    font-family: serif;
+    text-align:left;
+    margin-left:100px;
+} 
+.hobby1 p{
+    text-align: left;
+    margin-left: 80px;
+    width: 700px;
+    font-size: 30px;
+    font-family: serif;
+}
+.hobby1-img img{
+    width: 250px;
+    padding-left: 80px;
+}
+.hobby2-h1{
+    font-size:60px;
+    margin-right:100px;
+}
+.hobby2 p{
+    margin-right: 80px;
+    width: 700px;
+    font-size: 30px;
+    font-family: serif;
+    padding-left: 100px;
+}
+.hobby2-img img{
+    width: 250px;
+    padding-left: 100px;
+}
+
+.music {
+    background-color: rgb(255, 142, 127);
+    margin-left:100px;
+    margin-right:100px;
+    padding-top: 5px;
+    text-align:right;
+}
+.music-h1 {
+    font-size:70px;
+    font-family:serif;
+    text-align: center;
+}
+.music-text{
+    font-size:35px;
+    font-family:serif;
+    text-align: center;
+}
+.people1{
+    text-align: center;
+}
+
